@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_1" data-name="Group 1" transform="translate(-2 -2)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(2 2)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="0.5">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="29.75" fill="none"/>
+    </g>
+    <path id="Icon_awesome-robot" data-name="Icon awesome-robot" d="M0,15.624v7.812a1.951,1.951,0,0,0,1.953,1.953H3.906V13.671H1.953A1.951,1.951,0,0,0,0,15.624ZM28.318,5.859H21.483V1.953a1.953,1.953,0,0,0-3.906,0V5.859H10.741a4.881,4.881,0,0,0-4.882,4.882v16.6a3.91,3.91,0,0,0,3.906,3.906h19.53A3.91,3.91,0,0,0,33.2,27.342v-16.6A4.881,4.881,0,0,0,28.318,5.859ZM15.624,25.389H11.718V23.436h3.906Zm-1.953-7.324a2.441,2.441,0,1,1,2.441-2.441A2.441,2.441,0,0,1,13.671,18.065Zm7.812,7.324H17.577V23.436h3.906Zm5.859,0H23.436V23.436h3.906Zm-1.953-7.324a2.441,2.441,0,1,1,2.441-2.441A2.441,2.441,0,0,1,25.389,18.065Zm11.718-4.394H35.154V25.389h1.953a1.951,1.951,0,0,0,1.953-1.953V15.624A1.951,1.951,0,0,0,37.107,13.671Z" transform="translate(12 11)" fill="#f7f4f4"/>
+    <text id="my_Robots" data-name="my Robots" transform="translate(15 51)" fill="#fff" font-size="6" font-family="Chalkduster"><tspan x="0" y="0">my Robots</tspan></text>
+  </g>
+</svg>
