@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Omotosho Peter',
+    username: 'Tosho',
+    email: 'Tosho@gmail.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Olwale Adesina',
+    username: 'Horlami',
+    email: 'Horlami@gmail.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Mary Ben',
+    username: 'Mary',
+    email: 'Maryben@ygmail.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Liza Tomi',
+    username: 'Eli',
+    email: 'Eli@gmail.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Lizzy charles',
+    username: 'Chika',
+    email: 'Chika@gmail.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Mrs. Ogunmola',
+    username: 'Christiana',
+    email: 'Christy@gmail.com'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Festus Omotosho',
+    username: 'Us_Tummy',
+    email: 'Blac.tummy@gmail.com'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Mr. Raphael O',
+    username: 'Ola_Raphael',
+    email: 'Wayout @gmail.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Ige Toyin',
+    username: 'Toyin',
+    email: 'ToyinV0@gmail.com'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Damilare Soetan',
+    username: 'Drey',
+    email: 'Soetan.drey@gmail.com'
   }
 ];
