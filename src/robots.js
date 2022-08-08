@@ -3,7 +3,7 @@ export const robots = [
     id: 1,
     name: 'Omotosho Peter',
     username: 'Tosho',
-    email: 'Tosho@gmail.com'
+    email: 'Peter.Omotosho@gmail.com'
   },
   {
     id: 2,
