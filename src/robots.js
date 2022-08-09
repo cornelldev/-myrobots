@@ -7,7 +7,7 @@ export const robots = [
   },
   {
     id: 2,
-    name: 'Olwale Adesina',
+    name: 'Olawale Adesina',
     username: 'Horlami',
     email: 'Horlami@gmail.com'
   },
